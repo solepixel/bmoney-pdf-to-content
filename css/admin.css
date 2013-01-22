@@ -1,0 +1,34 @@
+.thumbnail_generator .conditional {
+	margin-top:5px;
+	padding-left:10px;
+}
+.thumbnail_generator .conditional li {
+	border-bottom:1px solid #CCC;
+	padding-bottom:5px;
+	padding-left:10px;
+}
+.thumbnail_generator .conditional .label {
+	padding-right:15px;
+	min-width:120px;
+	display:block;
+	float:left;
+}
+.thumbnail_generator .conditional .field {
+	display:block;
+	float:left;
+}
+.gs_conditional .field input,
+.gs_convert_conditional .field input {
+	width:320px;
+}
+
+
+#bmptc_thumb_preview img {
+	background:#FFF;
+}
+
+.attachments-browser .attachment-preview.type-application.subtype-pdf img {
+	width:110px;
+	height:100px;
+	padding-top:8%;
+}
